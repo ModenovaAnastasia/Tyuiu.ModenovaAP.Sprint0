@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{4684E210
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ModenovaAP.Sprint0.Task0.V0", "Tyuiu.ModenovaAP.Sprint0.Task0.V0\Tyuiu.ModenovaAP.Sprint0.Task0.V0.csproj", "{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{2369E991-9289-4F51-AB0E-25FF5AA93D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ModenovaAP.Sprint0.Task1.V0", "Tyuiu.ModenovaAP.Sprint0.Task1.V0\Tyuiu.ModenovaAP.Sprint0.Task1.V0.csproj", "{2DCC671F-A0C5-4411-A3B5-27123C56E061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCC671F-A0C5-4411-A3B5-27123C56E061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCC671F-A0C5-4411-A3B5-27123C56E061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCC671F-A0C5-4411-A3B5-27123C56E061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCC671F-A0C5-4411-A3B5-27123C56E061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F} = {4684E210-8A59-443A-943F-D9498F044DBB}
+		{2DCC671F-A0C5-4411-A3B5-27123C56E061} = {2369E991-9289-4F51-AB0E-25FF5AA93D02}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9FEFC0B-198F-42E3-83C1-E3BFB27B9ED9}
