@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{4684E210-8A59-443A-943F-D9498F044DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ModenovaAP.Sprint0.Task0.V0", "Tyuiu.ModenovaAP.Sprint0.Task0.V0\Tyuiu.ModenovaAP.Sprint0.Task0.V0.csproj", "{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0B658E7B-E5EB-4BB4-85BC-E8098C254F4F} = {4684E210-8A59-443A-943F-D9498F044DBB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9FEFC0B-198F-42E3-83C1-E3BFB27B9ED9}
+	EndGlobalSection
+EndGlobal
